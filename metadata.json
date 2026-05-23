@@ -1,0 +1,10 @@
+{
+  "name": "VisionSpace AI",
+  "description": "Interactive AI-powered spatial design platform with real-time style generation, interactive detail hotspots, and localized costing intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
